@@ -1,2 +1,1 @@
-# bsmnyk.github.io
-A paper a day
+[My blog](bsmnyk.github.io) 
