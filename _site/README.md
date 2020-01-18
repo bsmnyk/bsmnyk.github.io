@@ -1,1 +1,0 @@
-[My blog](bsmnyk.github.io) 
