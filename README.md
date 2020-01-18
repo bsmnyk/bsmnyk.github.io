@@ -1,1 +1,1 @@
-[My blog](bsmnyk.github.io) 
+[My blog](https://bsmnyk.github.io) 
