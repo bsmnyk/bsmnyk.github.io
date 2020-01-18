@@ -2,7 +2,7 @@ title: Bismay's Blog
 description: > # this means to ignore newlines until "baseurl:"
   Bismay Nayak's Blog for Stuff
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bsmnyk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
@@ -20,7 +20,7 @@ social-email: bismay.nyk@gmail.com # add your Email address
 discus-identifier: bsmnyk-github-io # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
