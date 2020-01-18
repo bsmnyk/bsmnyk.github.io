@@ -2,14 +2,14 @@ title: Bismay's Blog
 description: > # this means to ignore newlines until "baseurl:"
   Bismay Nayak's Blog for Stuff
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bsmnyk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Bismay Nayak # add your name
-author-img: bismay.png # add your photo
-about-author:  A Data Scientist's Blog # add description
+author: Bismay K Nayak # add your name
+author-img: bismay.jpeg # add your photo
+about-author: Deep Learning Engineer at Unemployed # add description
 social-twitter: bismay_nyk # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: bsmnyk # add your Github handle

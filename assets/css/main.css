@@ -942,8 +942,8 @@ table tfoot td {
 }
 
 .about .cover-author-image {
-  width: 100px;
-  height: 100px;
+  width: 130px;
+  height: 130px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
@@ -964,16 +964,16 @@ table tfoot td {
 }
 
 .about img:hover {
-  -webkit-transform: scale3d(0.9, 0.9, 1);
-          transform: scale3d(0.9, 0.9, 1);
+  -webkit-transform: scale3d(0.97, 0.97, 1);
+          transform: scale3d(0.97, 0.97, 1);
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
-  font-size: 16px;
+  font-size: 20px;
   text-transform: uppercase;
   color: #333030;
   font-weight: 700;
@@ -988,10 +988,12 @@ table tfoot td {
           transform: translateX(-50%);
   bottom: 0;
   display: block;
-  width: 7px;
-  height: 7px;
+  width: 140px;
+  height: 2px;
+/**
   -webkit-border-radius: 100%;
           border-radius: 100%;
+*/
   background-color: #515151;
 }
 
@@ -1421,8 +1423,8 @@ a.newer-posts:hover {
     margin: 10px auto auto;
   }
   .about img {
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     -webkit-border-radius: 100%;
             border-radius: 100%;
     margin-bottom: 10px;
